@@ -22,6 +22,12 @@
         "tilemapTile": true,
         "displayName": "myTile2"
     },
+    "tile3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
     "level9": {
         "id": "level9",
         "mimeType": "application/mkcd-tilemap",
@@ -40,7 +46,8 @@
             "sprites.castle.tileGrass2",
             "myTiles.tile1",
             "myTiles.tile2",
-            "myTiles.tile4"
+            "myTiles.tile4",
+            "myTiles.tile3"
         ],
         "displayName": "level0"
     },
