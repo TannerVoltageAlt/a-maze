@@ -19,6 +19,6 @@ Render.setViewMode(ViewMode.tilemapView)
 pauseUntil(() => controller.A.isPressed())
 Render.setViewMode(ViewMode.raycastingView)
 mySprite = Render.getRenderSpriteVariable()
-scene.setBackgroundImage(assets.image`sky`)
-let levels = [tilemap`level1`]
+let levels = [tilemap`level1`, tilemap`level2`]
 tiles.setCurrentTilemap(levels.get(currentLevel))
+scene.setBackgroundImage(assets.image`sky`)
