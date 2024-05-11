@@ -1,4 +1,4 @@
-// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.12.51/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"1.0.0","target":"arcade","targetVersion":"1.12.51","repo":"tannervoltagealt/a-maze"}
+// meta={"simUrl":"https://trg-arcade.userpxt.io/v1.12.51/---simulator","cdnUrl":"https://pxt.azureedge.net","version":"1.beta1.0","target":"arcade","targetVersion":"1.12.51","repo":"tannervoltagealt/a-maze"}
 // total=1645823 new=11.12% cached=83.78% other=5.11%
 (function (ectx) {
 'use strict';
